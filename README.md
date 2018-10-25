@@ -22,7 +22,12 @@ This is in testing
     Navigate to .config
     locate xfce4 folder
     paste downloaded xfce4 folder here in place
-    
+ 
+ ## Step #3 Wallpaper
+ Move the downloaded wallpaper to your pictures folder
+ Validate path is correct for feh in i3 .config file
+ 
+## Step # 4 Enjoy
     Logout of current DE
     Login to i3
     
