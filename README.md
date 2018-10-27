@@ -15,13 +15,14 @@ This is in testing
   ## Step # 2 Move Config Files
   
     In Home folder CTRL + H to unhide files
-    Navigate to .config > i3
-    Paste .config file downloaded in i3 folder
-    Paste compton.conf file downloaded in i3 folder
-    
     Navigate to .config
+    Create folder named i3
+    Paste .config file downloaded in 'i3' folder
+    Paste compton.conf file downloaded in 'i3' folder
+    
+    Navigate back to .config
     locate xfce4 folder
-    paste downloaded xfce4 folder here in place
+    paste downloaded xfce4 folder here
  
  ## Step #3 Wallpaper
  Move the downloaded wallpaper to your pictures folder
