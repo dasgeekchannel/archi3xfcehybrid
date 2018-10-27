@@ -7,7 +7,7 @@ This is in testing
   Use pacman -S to install the following packages:
   i3-gaps dmenu i3lock feh conky compton unclutter lxappearance menulibre i3status volumeicon thunar pavucontrol xautolock
 
-  Ex: $ sudo pacman -S i3-gaps dmenu i3lock feh conky compton unclutter lxappearance menulibre i3status volumeicon thunar   pavucontrol xautolock
+  Ex: $ sudo pacman -S i3-wm dmenu i3lock feh conky compton unclutter lxappearance menulibre i3status volumeicon thunar   pavucontrol xautolock
 
   Use AUR to install j4-dmenu-desktop
   Ex: $ trizen -S j4-dmenu-desktop
