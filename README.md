@@ -11,7 +11,12 @@ This is in testing
 
   Use AUR to install j4-dmenu-desktop
   Ex: $ trizen -S j4-dmenu-desktop
-  
+
+  Install Xfce Panel and widgets
+  xfce4-panel xfce4-pulseaudio-plugin xfce4-whiskermenu-plugin xfce4-weather-plugin xfce4-sensors-plugin xfce4-goodies   
+  Ex: $ sudo pacman -S xfce4-panel xfce4-pulseaudio-plugin xfce4-whiskermenu-plugin xfce4-weather-plugin xfce4-sensors-plugin            xfce4-goodies
+
+
   ## Step # 2 Move Config Files
   
     In Home folder CTRL + H to unhide files
